@@ -1,0 +1,20 @@
+Pos-Nr. Nr.),(Pos-,Menge Einheit,LV-Datum: Einheitspreis in EUR,25.10.2024 Gesamtpreis in
+6.6,,Dokumentation - Revisionsunterlagen,,EUR
+6.6.1,,Erstellen der Montagepläne nach Vorgabe AG Herstellen der Werkstatt- und Montageplanung auf der Ausführungsplanung wird in folgenden Formaten,,
+,,übergeben: dwg ifc und rvt als 3D Modell. vom Auftragnehmer geschuldeten Planungsleistungen sind nach dem aktuellen Vorgaben zu erstellen. Diese werden mit der Ausführungsplänen übergeben. Die Struktur der,Grundlage der als einfache,"Ausführungsplanung. Die Liniendarstellung,"
+,,"Die CAD Ausführungspläne muss beibehalten werden, insbesondere die Layerstruktur, externe Zeichnungseinheit, Einfügepunkt und die Dateinamenskonvention.",,"StBaEr-N Referenzen,"
+,,"Der AN muss in der Lage sein, das 3D-Modell in der Format rvt/ ifc in Rahmen der Werkstatt- Montageplanung fortzuschreiben, was bedeutet alle für Montage erforderliche Detailschnitte dem 3D-Modell eigenständig zu generieren sowie die Bemassungen und Beschriftungen zu ergänzen.",,und aus eigenständig
+,,Die gesonderte Aufwendung ist in diese Position einzukalkulieren,,
+,,"Vervollständigen um die für die Montage notwendigen Angaben: - Grundrisspläne - Lagepläne - Details - Wandansichten - min. 10 zusätzliche Ansichten pro Plan. - Fertigungsdetails/ Anschlussdetails - Längs- und Querschnitte aus dem Modell - Befestigungspläne (z.B. Abhängung, Festpunkte)",,
+,,"Kollisionsprüfung von Gesamtmodell anhand eines IFC Viewier, Anpassung der 3D -Planung einer Kollision, die dreidimensionale Anpassung der Trassierung",,im Falle
+,,Erstellung Übersichtpläne mit der Markierung der Dämmarbeiten die in das Leistungsumfang KKE4005 Lüftung gehören.,,AN
+,,Erstellen einer Elektrobedarfsliste unter Berücksichtigung der,angebotenenen,Bauteile.
+,,Erstellen der Druckverlustberechnungen für alle RLt- und PFO-Anlagen unter,,Berücksichtigung der
+,,angebotenenen Bauteile. -Erstellung der Funktionsbeschreibung auf Grundlage der,,
+,,"Funktionsbeschreibung der Ausführungsplanung in solch detaillierter Ausführung, dass der AN Gebäudeautomation zweifelsfrei die Bestellung und Programmierung der Steuerungs- und Regelanlage ausführen kann. Die verschiedensten Betriebsfälle, sowie evtl. Störfallauswirkungen sind hierbei zu berücksichtigen.",,
+,,alle von der Gebäudeautomation betroffenen Anlagenkomponenten mit Eintragung dieser Bauteilkennung und Ortskennung in die Grundrisspläne und die entsprechenden Anlagenschemata. - Erstellung eines Protokolls über die Vollständigkeitsprüfung,,
+,,der für das Betreiben der Anlage notwendigen Unterlagen - Fortschreiben des detaillierten Montageterminplans,"der Lüftungsinstallation. Bauteile und Sicherheitseinrichtungen, der Zugänglichkeit technischer und behördlichen","Dazu Einbauten, der der Vorschriften,"
+,,Nachprüfung,,
+,,"Die Nachprüfung der Pläne und Schemata, der Berechnungen, der Werkstoffauswahl, die und Dimensionierung von Anlagenteilen und Leitungen hat vom Auftragnehmer verbindlich der Planunterlagen und Beschreibungen eigenverantwortlich zu erfolgen.",,Auslegung aufgrund
+,,"Die Werstatt- und Montagezeichnungen sind der Objektüberwachung TGA einfach vorzulegen. In A Format, farbig angelegt und gefaltet, in einem Ordner und digital auf dem Projektaustauschserver. Des Weiteren sind die Unterlagen als dwg, pdf und rvt auf einer CD zweifacher Ausfertigung zu überreichen. Bei Unklarheiten erfolgt ein Aufklärungsgespräch in Räumen der Objektüberwachung. Die Werkstatt- und Montageplanung ist im Rahmen eines Review vorzustellen",,in
+,,,,DIN den
