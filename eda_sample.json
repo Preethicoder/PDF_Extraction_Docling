@@ -1,0 +1,268 @@
+{
+  "file_name": "/Users/preethisivakumar/Documents/spacelyout/Laborbefund.pdf",
+  "num_pages": 3,
+  "summary": {
+    "total_words": 318,
+    "total_tables": 13,
+    "total_figures": 0,
+    "avg_words_per_page": 106.0,
+    "common_terms": [
+      {
+        "term": "l",
+        "count": 24
+      },
+      {
+        "term": "dl",
+        "count": 14
+      },
+      {
+        "term": "negativ",
+        "count": 13
+      },
+      {
+        "term": "mg",
+        "count": 11
+      },
+      {
+        "term": "g",
+        "count": 10
+      },
+      {
+        "term": "U",
+        "count": 9
+      },
+      {
+        "term": "ROUTINE",
+        "count": 6
+      },
+      {
+        "term": "mmol",
+        "count": 6
+      },
+      {
+        "term": "Zuweisung",
+        "count": 4
+      },
+      {
+        "term": "Ak",
+        "count": 4
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text_blocks": [
+        {
+          "text": "Institut für medizinische u. chemische Labordiagnostik\nVorstand:",
+          "block_type": "paragraph",
+          "num_words": 7
+        },
+        {
+          "text": "Prim.",
+          "block_type": "paragraph",
+          "num_words": 1
+        },
+        {
+          "text": "Univ.-Prof.",
+          "block_type": "paragraph",
+          "num_words": 1
+        },
+        {
+          "text": "Muster Mann\nMosaikstraße 1 ♦ A-1111 Wien\n(cid:11) +43 (0)1 12345-67890 ♦ Fax: +43 (0)1 12345-67899\nAn\nEinsender\nROUTINE MUSTERMANN Max Zuweisung vom: 14.10.09/ Seite\ngeb.:",
+          "block_type": "paragraph",
+          "num_words": 26
+        },
+        {
+          "text": "31.10.1967 (M) 19:24\nBefunddatum: 24.10.09/\n21:29\n1/3\n(cid:11) 12345-67890 Patientenzahl: 04RH26G0O Kostenstelle: 97184280\nLabornummer: 09101400764 Diagnose:\nBEFUND: ROUTINE - ANALYTIK\nAnalyse Einheit Normwerte\nKLINISCHE CHEMIE\nSERUM\nGOT 23 U/l <35\nGPT 35 U/l <45\nGGT 27 U/l <55\nAlk.",
+          "block_type": "paragraph",
+          "num_words": 39
+        },
+        {
+          "text": "Phosphatase 98 U/l 0.-129\nCholinesterase 10835 U/l 5400-13200\nLDH 181 U/l 125-248\nCK 95 U/l <171\nAlpha-Amylase 65 U/l 28-100\nLipase 37 U/l <60\nBilirubin gesamt 0.68 mg/dl <1.00\nCholesterin gesamt 196 mg/dl <200\nHDL-Cholesterin 65.0 mg/dl >35.0\nLDL-Cholesterin 108 mg/dl <155\nTriglyzeride 117 mg/dl <150\nGlucose 90 mg/dl 60-100\nBUN 10.3 mg/dl 6-25\nKreatinin 0.98 mg/dl 0.50-1.20\nHarnsäure 6.7 mg/dl 3.5-7.0\nGesamteiweiß + 8.2 g/dl 6.0-8.0\nEisen 74 µg/dl 60-160\nTransferrin 272.0 mg/dl 200.0-380.0\nFerritin 229.00 ng/ml 30.00-400.00\nNatrium 138 mmol/l 135-150\nKalium 3.7 mmol/l 3.5-5.5\nChloride 95 mmol/l 95-110\nCalcium 2.62 mmol/l 2.10-2.70\nMagnesium 0.86 mmol/l 0.70-1.00\nPhosphor 1.1 mmol/l 0.8-1.6\nCRP 1 mg/l <12\nGERINNUNG",
+          "block_type": "paragraph",
+          "num_words": 108
+        },
+        {
+          "text": "Normotest 107 % 70-130\naPTT 36.5 sec 32.0-40.0\nThrombinzeit 16.5 sec 16.0-20.0\nDVR: 0000191",
+          "block_type": "paragraph",
+          "num_words": 14
+        }
+      ],
+      "tables": [
+        {
+          "title": "Table_1_1",
+          "num_rows": 4,
+          "num_columns": 1
+        },
+        {
+          "title": "Table_1_2",
+          "num_rows": 7,
+          "num_columns": 12
+        },
+        {
+          "title": "Table_1_3",
+          "num_rows": 2,
+          "num_columns": 1
+        },
+        {
+          "title": "Table_1_4",
+          "num_rows": 2,
+          "num_columns": 1
+        },
+        {
+          "title": "Table_1_5",
+          "num_rows": 1,
+          "num_columns": 12
+        }
+      ],
+      "figures": []
+    },
+    {
+      "page_number": 2,
+      "text_blocks": [
+        {
+          "text": "Institut für medizinische u. chemische Labordiagnostik\nVorstand:",
+          "block_type": "paragraph",
+          "num_words": 7
+        },
+        {
+          "text": "Prim.",
+          "block_type": "paragraph",
+          "num_words": 1
+        },
+        {
+          "text": "Univ.-Prof.",
+          "block_type": "paragraph",
+          "num_words": 1
+        },
+        {
+          "text": "Muster Mann\nMosaikstraße 1 ♦ A-1111 Wien\n(cid:11) +43 (0)1 12345-67890 ♦ Fax: +43 (0)1 12345-67899",
+          "block_type": "paragraph",
+          "num_words": 16
+        },
+        {
+          "text": "An:",
+          "block_type": "paragraph",
+          "num_words": 1
+        },
+        {
+          "text": "Einsender\nROUTINE MUSTERMANN Max Zuweisung vom: 14.10.09/ Seite\ngeb.:31.10.1967 (M) 19:24\nBefunddatum: 24.10.09/\n21:29\n2/3\n(cid:11) 12345-67890 Patientenzahl: 04RH26G0O Kostenstelle: 97184280\nLabornummer: 09101400764 Diagnose:\nBEFUND: ROUTINE - ANALYTIK\nAnalyse Einheit Normwerte\nHÄMATOLOGIE\nROTES BLUTBILD\nErythrozyten + 5.59 T/l 4.50-5.50\nHämoglobin 16.9 g/dl 13.0-17.0\nHämatokrit 46.8 % 43.0-50.0\nMCV 83.7 fl 80.0-96.0\nMCH 30.2 pg 28.0-33.0\nMCHC + 36.1 g/dl 33.0-36.0\nRDW-CV 12.9 % 11.5-17\nRetikulozyten % + 1.52 % 0.50-1.50\nWEISSES BLUTBILD\nLeukozyten 8.69 g/l 4.00-10.00\nTHROMBOZYTEN\nThrombozyten 285 g/l 150-360\nDIFFERENTIALBLUTBILD\nSegmentkernige% 60 % 50-70\nLymphozyten% 30 % 20-40\nMonozyten % 8 % 2-10",
+          "block_type": "paragraph",
+          "num_words": 95
+        },
+        {
+          "text": "Eosinophile % 1 % 1-4\nBasophile % 0 % 0-1\nSegmentkernige 5.24 g/l 1.90-8.00\nLymphozyten 2.64 g/l 0.80-3.50\nMonozyten 0.67 g/l 0.20-0.70\nEosinophile 0.11 g/l 0.00-0.40\nBasophile 0.0 g/l 0.0-0.2\nDVR: 0000191",
+          "block_type": "paragraph",
+          "num_words": 32
+        }
+      ],
+      "tables": [
+        {
+          "title": "Table_2_1",
+          "num_rows": 4,
+          "num_columns": 1
+        },
+        {
+          "title": "Table_2_2",
+          "num_rows": 7,
+          "num_columns": 12
+        },
+        {
+          "title": "Table_2_3",
+          "num_rows": 2,
+          "num_columns": 1
+        },
+        {
+          "title": "Table_2_4",
+          "num_rows": 1,
+          "num_columns": 12
+        }
+      ],
+      "figures": []
+    },
+    {
+      "page_number": 3,
+      "text_blocks": [
+        {
+          "text": "Institut für medizinische u. chemische Labordiagnostik\nVorstand:",
+          "block_type": "paragraph",
+          "num_words": 7
+        },
+        {
+          "text": "Prim.",
+          "block_type": "paragraph",
+          "num_words": 1
+        },
+        {
+          "text": "Univ.-Prof.",
+          "block_type": "paragraph",
+          "num_words": 1
+        },
+        {
+          "text": "Muster Mann\nMosaikstraße 1 ♦ A-1111 Wien\n(cid:11) +43 (0)1 12345-67890 ♦ Fax: +43 (0)1 12345-67899",
+          "block_type": "paragraph",
+          "num_words": 16
+        },
+        {
+          "text": "An:",
+          "block_type": "paragraph",
+          "num_words": 1
+        },
+        {
+          "text": "Einsender\nROUTINE MUSTERMANN Max Zuweisung vom: 14.10.09/ Seite\ngeb.:31.10.1967 (M) 19:24\nBefunddatum: 24.10.09/\n21:29\n3/3\n(cid:11) 12345-67890 Patientenzahl: 04RH26G0O Kostenstelle: 97184280\nLabornummer: 09101400764 Diagnose:\nBEFUND: ROUTINE - ANALYTIK\nAnalyse Einheit Normwerte\nKOMMENTAR\nINFEKTIONSSEROLOGIE\nHIV Screening Combo negativ negativ\nHEPATITIS-SEROLOGIE\nHAV-Ak negativ --- negativ\nHAV-IgM-Ak negativ --- negativ\nHbs-Ag negativ --- negativ\nHbs-AK + positiv --- negativ\nHBc-Ak negativ --- negativ\nHCV negativ --- negativ\nHORMONE\nThyroidea Stimulierendes Hormo 3.22 µIU/ml 0.35-4.94\nKOMMENTAR\nzum Immunologie-Auftrag:",
+          "block_type": "paragraph",
+          "num_words": 74
+        },
+        {
+          "text": "Serologisch kein Hinweis auf Hepatitis",
+          "block_type": "paragraph",
+          "num_words": 5
+        },
+        {
+          "text": "A oder C Infektion.",
+          "block_type": "paragraph",
+          "num_words": 4
+        },
+        {
+          "text": "Hinweis auf Hepatitis B Impfung.",
+          "block_type": "paragraph",
+          "num_words": 5
+        },
+        {
+          "text": "Für Immunitätsstatus Bestimmung des HBs-Ak Titers empfohlen (Virologie Zuweisung\nNr. 27).",
+          "block_type": "paragraph",
+          "num_words": 11
+        },
+        {
+          "text": "DVR: 0000191",
+          "block_type": "paragraph",
+          "num_words": 2
+        }
+      ],
+      "tables": [
+        {
+          "title": "Table_3_1",
+          "num_rows": 4,
+          "num_columns": 1
+        },
+        {
+          "title": "Table_3_2",
+          "num_rows": 7,
+          "num_columns": 12
+        },
+        {
+          "title": "Table_3_3",
+          "num_rows": 2,
+          "num_columns": 1
+        },
+        {
+          "title": "Table_3_4",
+          "num_rows": 1,
+          "num_columns": 12
+        }
+      ],
+      "figures": []
+    }
+  ]
+}
